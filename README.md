@@ -1,3 +1,4 @@
+![Uploading photo_2026-09-11_18-45-46.jpg…]()
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Welcome%20to%20my%20Space&fontSize=42&fontColor=70a5fd&animation=fadeIn" width="100%" />
 </p>
