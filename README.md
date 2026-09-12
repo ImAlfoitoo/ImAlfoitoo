@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="260px" style="object-fit: cover; border-radius: 12px;" />
+  <img src="https://i.pinimg.com/originals/c7/28/7f/c7287fc90013f9f3ef423bc27ea1e345.jpg" width="100%" height="280px" style="object-fit: cover; border-radius: 12px;" />
 </p>
 
 <h1 align="center">Hi there, I'm Aria 👋</h1>
