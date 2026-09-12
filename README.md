@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Welcome%20to%20my%20Space&fontSize=42&fontColor=70a5fd&animation=fadeIn" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Aria 👋</h1>
 <h3 align="center">توسعه‌دهنده نرم‌افزار و وب | گرافیست و ادیتور 👾👨‍💻</h3>
 
@@ -25,17 +29,14 @@
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </p>
 
-<!--
-**mahdiyarpurizdian-afk/mahdiyarpurizdian-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 راه‌های ارتباطی
+<p align="left">
+  <a href="https://t.me/Aria_1816" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/26453488465" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
